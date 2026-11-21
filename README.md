@@ -90,10 +90,3 @@ main.py                  Classic Tkinter entry point
 modern_main.py           Modern PyQt5 entry point
 ```
 
-See [UI_MIGRATION_PLAN.md](UI_MIGRATION_PLAN.md) for details about the modern interface architecture.
-
-## Authors and provenance
-
-This repository preserves the application’s original project-team attribution. See [AUTHORS.md](AUTHORS.md) for details and the upstream source history.
-
-No license was present in the upstream project, so no license has been inferred or added here.
